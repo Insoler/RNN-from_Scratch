@@ -179,12 +179,3 @@ rnn.predict(b[:10])
 
 # In[25]:
 
-
-c[1:10]
-
-
-# In[44]:
-
-
-print('hello {}={}'.format(3,4))
-
